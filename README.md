@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael Campos, e estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas;<br><br>- 🔭 No momento estou desempregado;<br>- 📚 Estou revisando Front-END e aprendendo C#;<br>- ⚡ No meu tempo livre gosto de tentar desenvolver projetos básicos para botar meu aprendizado em prática.</p>
+<p align="left">Meu nome é Rafael Campos, e estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas;<br><br>- 🔭 No momento estou desempregado;<br>- 📚 Estou aprendendo .NET / Java / Python;<br>- ⚡ No meu tempo livre gosto de tentar desenvolver projetos básicos para botar meu aprendizado em prática.</p>
 
 ###
 
